@@ -40,4 +40,5 @@ A web application for movie lovers to discover, review, and reimagine films. The
 
 ## 📷 Demo 
 
-https://github.com/user-attachments/assets/ce4ba7ef-6c64-453a-a367-87a30047481a
+https://github.com/user-attachments/assets/2e829c36-a4d0-425e-90bd-ad2de28a2879
+
