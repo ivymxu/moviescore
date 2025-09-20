@@ -1,6 +1,6 @@
 # MovieScore
 
-A web application for movie lovers to discover, review, and reimagine films. The app combines traditional movie exploration with a unique twist where users can create and explore alternative soundtracks for their favorite movies.
+A web application for movie and music lovers to discover, review, and reimagine films through playlists. The app combines traditional movie exploration with a unique twist where users can create and explore alternative soundtracks for their favorite movies.
 
 ## 🚀 Features
 ### 🔹 Landing Page
